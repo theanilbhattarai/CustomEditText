@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomEditText</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+</resources>
