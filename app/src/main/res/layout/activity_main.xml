@@ -14,7 +14,7 @@
         android:layout_height="60dp"
         android:layout_marginTop="252dp"
         android:ems="10"
-        android:drawableStart="@drawable/ic_email"
+        android:drawableStart="@drawable/custom_email_icon"
         android:drawablePadding="8dp"
         android:inputType="textEmailAddress"
         android:hint="@string/email_address"
@@ -28,7 +28,7 @@
 
     <EditText
         android:id="@+id/password_et"
-        android:drawableStart="@drawable/ic_lock"
+        android:drawableStart="@drawable/custom_lock_icon"
         android:layout_width="match_parent"
         android:drawablePadding="8dp"
         android:paddingStart="8dp"
